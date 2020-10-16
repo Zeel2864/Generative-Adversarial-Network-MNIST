@@ -13,12 +13,12 @@ to fool Discrimiantor and Discriminator learns to distinguish between what real 
 both Network competes with each other to win over each other.
 
 ## Generator Model:
-![G](https://user-images.githubusercontent.com/53400783/96247500-d74d2d80-0fc7-11eb-93b6-5d736d80e2b9.png)
-
+![G](https://user-images.githubusercontent.com/53400783/96247631-ffd52780-0fc7-11eb-8b6d-1ab4dd94087d.png)
 ## Discriminator Model:
-![d](https://user-images.githubusercontent.com/53400783/96247631-ffd52780-0fc7-11eb-8b6d-1ab4dd94087d.png)
+![D](https://user-images.githubusercontent.com/53400783/96247500-d74d2d80-0fc7-11eb-93b6-5d736d80e2b9.png)
 
 ## Result
 #### Above image is Generated image and below one is original image
-![Generated Image](https://user-images.githubusercontent.com/53400783/96250124-f9e14580-0fcb-11eb-9349-ae47bb6e2483.png)
+![Generated Image](https://user-images.githubusercontent.com/53400783/96250873-2a75af00-0fcd-11eb-854e-42872a30c9da.png)
+
 
