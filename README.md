@@ -5,7 +5,9 @@
 GAN concept was given by lan Goodfello, Jean Pouget, Mehdi Miraz and many others in 2014.
 
 GAN has two types of Networks:
+
 1.Generator Network
+
 2.Discriminator Network
 
 Generator learns to generate fake image that look real,
