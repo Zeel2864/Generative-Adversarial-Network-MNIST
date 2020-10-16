@@ -1,5 +1,4 @@
-# Generative-Adversarial-Network-MNIST-Dataset
-# GENERATIVE ADERSARIAL NETWORK
+# GENERATIVE ADERSARIAL NETWORK MNIST Dataset
 
 ### 1.GAN ON MNIST DATASET
 GAN concept was given by lan Goodfello, Jean Pouget, Mehdi Miraz and many others in 2014.
